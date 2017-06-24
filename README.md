@@ -1,22 +1,36 @@
-<p align="center"> ![http://nahrup.ir/view/876/adv-v4.png](http://nahrup.ir/view/876/adv-v4.png)
-<h1 align="left">`[⚓️](AdvanSource`, _bot with fast speed and high power)_</h1><p align=centert">  <p align="left">[![Join the chat at https://gitter.im/janlou/AdvanSource](https://badges.gitter.im/AdvanSource.svg)](https://gitter.im/janlou/AdvanSource?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-<h4> It is an anti spam bot (CLI) with fast speed and free for you! based on [TeleSeed](https://github.com/SEEDTEAM/TeleSeed) and powered by [ADVAN™](http://telegram.me/advantm), this source have an original *Autolaunch* and *Steady script* for your ubuntu server.
-***
-<p align="left">Creator: [[ JOIN! ]](https://telegram.me/advanbot)
-<p align="left">Channel: [[ JOIN! ]](https://telegram.me/joinchat/CbNIGj07Z0YAy3CX5MRQaQ)
-<p align="left">Support: [[ JOIN! ]](https://telegram.me/joinchat/Bqy_YT_BXhTWrPiN97yvsg)
-***
-## You can create an account for free in:
-|Rank | Name | Adress |
-|:--------|:----------|:------------|
-| <h4>`Rank` _(1)_ | Codenvy | [https://codenvy.com](https://codenvy.com) |
-| <h4>`Rank` _(2)_ | Codeanywhere | [https://codeanywhere.com](https://codeanywhere.com) |
-| <h4>`Rank` _(3)_ | Cloud9 | [https://C9.io](https://C9.io) |
-| <h4>`Rank` _(4)_ | Koding | [https://koding.com](https://koding.com) |
-| <h4>`Rank` _(5)_ | SourceLair | [https://www.sourcelair.com/home](https://www.sourcelair.com) |
-| <h4>`Rank` _(6)_ | Nitrous | [https://www.nitrous.io/](https://www.nitrous.io) |
+##  <h1>  XtBot... XtFa
 
-##Strong management:
+| XtBot by ShahinXT: |
+
+
+ 
+# کانال پشتیبانی  
+
+| Channel  @Xt_robo |
+
+
+
+## SuperGroup's languages ( !lang list):
+
+<h2>|:----EN----|:-----FA-----|:------فا------|</h2>
+
+
+## تنظیم ربات در ۳ نوع زبان
+
+| <h2>/setlang `en`
+| <h3>| در این نوع تنظیم دستورات ارسالی و پاسخ های دریافتی بصورت انگلیسی خواهد بود |
+
+| <h2>/setlang `fa` 
+| <h3>| در این نوع تنظیم دستورات ارسالی انگلیسی بوده و پاسخ های دریافتی بصورت فارسی خواهد بود |
+
+| <h2>/setlang `فا` 
+| <h3>| در این نوع تنظیم دستورات ارسالی و پاسخ های دریافتی بصورت فارسی خواهد بود |
+
+
+
+
+
+## لیست قفل ها
 - <p align="left">Lock link
 - <p align="left">Lock spam
 - <p align="left">Lock flood
@@ -45,44 +59,44 @@
 - <p align="left">Show mutes list in settings
 - <p align="left">And ...
 
-## SuperGroup's languages (you can say !lang list):
-| Commands | Usage | 
-|:--------|:----------|:------------|
-| <h4>[!#/]setlang `en` | Change launguage of supergroup to `enlish` when you are in a supergroup |
-| <h4>[!#/]setlang `fa` | تغییر زبان سوپرگروه به `فارسی با دستورات انگلیسی` زمانیکه شما در سوپرگروه میباشید |
-| <h4>[!#/]setlang `فا` | تغییر زبان سوپرگروه `فارسی با دستورات فارسی` زمانیکه شما در سوپرگروه میباشید |
-## Chat's languages:
-| Commands | Usage | 
-|:--------|:----------|:------------|
-| <h4>[!#/]setlang `en` | Change launguage of chat to `enlish` when you are in a chat |
-| <h4>[!#/]setlang `fa` | تغییر زبان چت به `فارسی با دستورات انگلیسی` زمانیکه شما در چت میباشید |
-| <h4>[!#/]setlang `فا` | تغییر زبان چت `فارسی با دستورات فارسی` زمانیکه شما در چت میباشید |
-
 | INSTALL BOT |
 |:-----------------------|
 - <p align="left">Clone Source:
-```sh
-git clone https://github.com/janlou/AdvanSource && cd AdvanSource
+```
+sh
+git clone https://github.com/robosaz/xtfa
+cd xtfa
 ```
 - <p align="left">install bot:
 ```sh
 chmod 700 start.sh
 ./start.sh install
-y
 ```
-| ANTI CRASH |
-|:-----------------------|
-```sh
+
+| `screen ./steady.sh -t` |
+
+# | CLI Bot |
+# اجرا با شماره تلفن
+```
+/start.sh
+```
+
+# | Api Bot |
+# اجرا با ربات های 
+# api
+
+```
+./start.sh api
+
+```
+
+
+| `screen ./steady.sh -t` |
+
+
+# Auto Launch Confiure :
+
+**  دستور اتولانچ ربات  **
+```
 tmux new-session -s script "bash steady.sh -t"
 ```
-- <p align="left">Now run your bot then enter bot's phone number and join code:
-`./start.sh -q`
-- <p align="left">And you can start bot with steady script:
-
-| FREE SERVER: |
-|:-----------------------|
-| `./steady.sh -t` |
-
-| BOUGHT SERVER: |
-|:-----------------------|
-| `screen ./steady.sh -t` |
